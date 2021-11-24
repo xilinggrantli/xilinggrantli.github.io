@@ -9,6 +9,7 @@ author_profile: true
 
 [1] **Xiling Li** and Rafael Dowsley and Martine De Cock. *Privacy-Preserving Feature Selection with Secure Multiparty Computation*, In Proceedings of the 38th International Conference on Machine Learning (ICML 2021), PMLR 139:6326-6336, 2021. 
 [PDF](http://proceedings.mlr.press/v139/li21e/li21e.pdf), [Website](http://proceedings.mlr.press/v139/li21e.html), [Poster](https://xilinggrantli.github.io/images/Xiling__ICML_2021_poster.png)
+![alt text](https://github.com/xilinggrantli/xilinggrantli.github.io/blob/master/images/Xiling__ICML_2021_poster.png)
 
 **Papers in Workshops:**
 
