@@ -16,3 +16,6 @@ author_profile: true
 
 [1] **Xiling Li** and Martine De Cock. *Cognitive load detection from wrist-band sensors.* In Adjunct Proceedings of the 2020 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2020 ACM International Symposium on Wearable Computers (UbiComp-ISWC '20). ACM, New York, NY, USA, 456–461. DOI: [https://doi.org/10.1145/3410530.3414428](https://doi.org/10.1145/3410530.3414428)
 [PDF](http://faculty.washington.edu/mdecock/papers/xli2020a.pdf), [Talk](https://www.youtube.com/watch?v=hRcrJ2Tdgbk)
+
+![alt text](https://xilinggrantli.github.io/images/cog_load_5gpsc_plot.png)
+![alt text](https://xilinggrantli.github.io/images/cog_load_fe_fs.png)
