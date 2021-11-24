@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xiling Li (李希瓴)"
+title                    : "Xiling Li"
 title_separator          : "-"
 name                     : &name "Xiling Li"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xiling Li (Grant)"
+  name             : "Xiling Li (李希瓴)"
   avatar           : "profile_photo.png"
   bio              : "PhD student @ Northwestern"
   location         : "Evanston, IL, USA"
