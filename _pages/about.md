@@ -19,11 +19,3 @@ I received my M.S. in Computer Science from [University of Washington](http://ww
 *In research, you may be working alone on a problem for years without a clue of whether it is solvable.* 
 
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ - [Mor Harchol-Balter, CMU](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)
-
-**Contact Information:**
-
-*Address:* 2233 Tech Dr, Mudd 3120, Evanston, IL 60208
-
-*Email:* xiling.li@northwestern.edu
-
-*Tel:* 206-228-1052
