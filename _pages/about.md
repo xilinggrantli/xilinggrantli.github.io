@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. student in computer science at [Northwestern University](https://www.mccormick.northwestern.edu/computer-science/). My advisor is [Dr. Jennie Rogers](http://users.eecs.northwestern.edu/~jennie/).
+I am a first-year Ph.D. student in computer science at [Northwestern University](https://www.mccormick.northwestern.edu/computer-science/) advised by [Dr. Jennie Rogers](http://users.eecs.northwestern.edu/~jennie/).
 
 Broadly speaking, my research interests focus on privacy and security of computer science including secure query processing/optimization (DB), privacy-preserving machine learning (PPML), etc. In addition, my research heavily relies on cryptographical primitives and protocols from [secure multi-party computation](https://en.wikipedia.org/wiki/Secure_multi-party_computation) and [zero knowledge proof](https://en.wikipedia.org/wiki/Zero-knowledge_proof).
 
