@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. student of computer science at [Northwestern University](https://www.mccormick.northwestern.edu/computer-science/). My advisor is [Dr. Jennie Rogers](http://users.eecs.northwestern.edu/~jennie/).
+I am a first-year Ph.D. student in computer science at [Northwestern University](https://www.mccormick.northwestern.edu/computer-science/). My advisor is [Dr. Jennie Rogers](http://users.eecs.northwestern.edu/~jennie/).
 
 My research interests focus on privacy and security of computer science including secure query processing/optimization, privacy-preserving machine learning, etc.
 
