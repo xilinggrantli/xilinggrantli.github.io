@@ -9,18 +9,6 @@ I am a big fan of Chinese Poems (唐诗宋词). My favoriate poets are Bai Li (�
 
 The following poems are selected poems written by me in Chinese (reversed order by creation time):
 
-**辛丑生辰**
-
-回首往神州，思乡却泪流。
-
-不知街巷事，团聚又何求。
-
-**庚子重九致双亲**
-
-沧桑岁月生华发，甲子佳节忆少年。
-
-莫唱黄鸡悲落叶，犹登峻顶喜人间。
-
 **庚子生辰**
 
 瑟瑟清风递夜凉，绵绵细雨化离伤。
