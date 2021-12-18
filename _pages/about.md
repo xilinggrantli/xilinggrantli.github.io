@@ -16,7 +16,7 @@ I received my M.S. in Computer Science from [University of Washington](http://ww
 
 **News**
 
-**Dec 2021** I was invited and will be the reviewer of ICML 2022.
+**Dec 2021** I was invited and will be the reviewer of [ICML 2022](https://icml.cc/).
 
 **Proverb**
 
