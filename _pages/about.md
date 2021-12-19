@@ -21,4 +21,4 @@ I received my M.S. in Computer Science from [University of Washington](http://ww
 ## **Proverb**
 
 > *In research, you may be working alone on a problem for years without a clue of whether it is solvable.* 
-> <p align='right'> - [Mor Harchol-Balter, CMU](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf) </p>
+> - [Mor Harchol-Balter, CMU](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)
