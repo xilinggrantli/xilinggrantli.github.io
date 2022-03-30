@@ -16,7 +16,8 @@ I received my M.S. degree in Computer Science from [University of Washington](ht
 
 ## **News**
 
-> **Dec 2021:** I was invited and will be the reviewer of [ICML 2022](https://icml.cc/).
+> **Mar 2022:** I will be the reviewer of [NeurIPS 2022](https://neurips.cc).
+> **Dec 2021:** I will be the reviewer of [ICML 2022](https://icml.cc/).
 
 ## **Proverb**
 
