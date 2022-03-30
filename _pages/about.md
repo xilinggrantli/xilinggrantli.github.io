@@ -19,7 +19,3 @@ I received my M.S. degree in Computer Science from [University of Washington](ht
 > **Mar 2022:** I will be the reviewer of [NeurIPS 2022](https://neurips.cc).
 
 > **Dec 2021:** I will be the reviewer of [ICML 2022](https://icml.cc/).
-
-## **Proverb**
-
-> *In research, you may be working alone on a problem for years without a clue of whether it is solvable.* From [Mor Harchol-Balter, CMU](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)
