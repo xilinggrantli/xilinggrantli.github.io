@@ -19,4 +19,4 @@ author_profile: true
 
 **Master Thesis:**
 
-[1] **Xiling Li.** *Privacy-Preserving Filter-based Feature Selection with Secure Multiparty Computation*, University of Washington, ISBN:9798569995585, 2020. ([PDF](https://xilinggrantli.github.io/files/Privacy-Preserving_Filter-Base.pdf), [Website](https://www.proquest.com/docview/2491965298/abstract/6FAB3A2C9D7B49F5PQ/1?accountid=147023))
+[1] **Xiling Li.** *Privacy-Preserving Filter-based Feature Selection with Secure Multiparty Computation*, University of Washington, ISBN:9798569995585, 2020. ([PDF](https://digital.lib.washington.edu/researchworks/bitstream/handle/1773/46763/Li_washington_0250O_22365.pdf?sequence=1&isAllowed=y), [Website](https://www.proquest.com/docview/2491965298/abstract/6FAB3A2C9D7B49F5PQ/1?accountid=147023))
