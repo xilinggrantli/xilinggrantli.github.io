@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+[List of publications](https://xilinggrantli.github.io/files/List_of_Publications.pdf)
+
 **Papers in Proceedings:**
 
 [1] **Xiling Li** and Rafael Dowsley and Martine De Cock. *Privacy-Preserving Feature Selection with Secure Multiparty Computation*, In Proceedings of the 38th International Conference on Machine Learning (ICML 2021), PMLR 139:6326-6336, 2021. 
