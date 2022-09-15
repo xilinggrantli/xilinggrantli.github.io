@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-[List of publications](https://xilinggrantli.github.io/files/List_of_Publications.pdf)
+<> [List of publications](https://xilinggrantli.github.io/files/List_of_Publications.pdf)
 
 **Papers in Proceedings:**
 
