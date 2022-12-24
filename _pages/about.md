@@ -16,6 +16,7 @@ I received my M.S. degree in Computer Science from [University of Washington](ht
 
 ## **News**
 
+> **Dec 2022:** I am invited to be the reviewer of [ICML 2023](https://icml.cc/). <br />
 > **Jul 2022:** I am invited to be the reviewer of [ICLR 2023](https://iclr.cc). <br />
 > **Jul 2022:** I am invited to attend 19th International Workshop on High Performance Transaction Systems [HPTS 2022](http://www.hpts.ws). <br />
 > **Mar 2022:** I am invited to be the reviewer of [NeurIPS 2022](https://neurips.cc). <br />
