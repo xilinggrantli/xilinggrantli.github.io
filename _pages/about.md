@@ -16,11 +16,12 @@ I received my M.S. degree in Computer Science from [University of Washington](ht
 
 ## **News**
 
-> **Dec 2022:** I am invited to be the reviewer of [ICML 2023](https://icml.cc/). <br />
-> **Jul 2022:** I am invited to be the reviewer of [ICLR 2023](https://iclr.cc). <br />
-> **Jul 2022:** I am invited to attend [HPTS 2022](http://www.hpts.ws). <br />
-> **Mar 2022:** I am invited to be the reviewer of [NeurIPS 2022](https://neurips.cc). <br />
-> **Dec 2021:** I am invited to be the reviewer of [ICML 2022](https://icml.cc/).
+> **Mar 2023:** One paper has been accepted at [VLDB 2023](https://vldb.org/2023/). <br />
+> **Dec 2022:** I am invited to be the reviewer of [ICML 2023](https://icml.cc/Conferences/2023). <br />
+> **Jul 2022:** I am invited to be the reviewer of [ICLR 2023](https://iclr.cc/Conferences/2023). <br />
+> **Jul 2022:** I am invited to attend [HPTS 2022](http://www.hpts.ws/papers/2022/agenda.html). <br />
+> **Mar 2022:** I am invited to be the reviewer of [NeurIPS 2022](https://neurips.cc/Conferences/2022). <br />
+> **Dec 2021:** I am invited to be the reviewer of [ICML 2022](https://icml.cc/Conferences/2022).
 
 ## **QR Code of this website**
 
