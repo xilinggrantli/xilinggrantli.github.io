@@ -16,6 +16,7 @@ I received my M.S. degree in Computer Science from [University of Washington](ht
 
 ## **News**
 
+> **Mar 2023:** I serve as teaching assistant for [COMP_SCI 339: Introduction to Database Systems](https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/339.html)
 > **Mar 2023:** One paper has been accepted at [VLDB 2023](https://vldb.org/2023/). <br />
 > **Dec 2022:** I am invited to be the reviewer of [ICML 2023](https://icml.cc/Conferences/2023). <br />
 > **Jul 2022:** I am invited to be the reviewer of [ICLR 2023](https://iclr.cc/Conferences/2023). <br />
