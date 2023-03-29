@@ -18,7 +18,7 @@ I received my M.S. degree in Computer Science from [University of Washington](ht
 
 >**Mar 2023:** I am invited to be the reviewer of [NeurIPS 2023](https://nips.cc/Conferences/2023/Dates). <br />
 > **Mar 2023:** I serve as teaching assistant for [COMP_SCI 339: Intro to Database Systems](https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/339.html). <br />
-> **Mar 2023:** One paper has been accepted at [VLDB 2023](https://vldb.org/2023/). <br />
+> **Mar 2023:** Our paper *ZKSQL: Verifiable and Efficient Query Evaluation with Zero-Knowledge Proofs* has been accepted at [VLDB 2023](https://vldb.org/2023/). <br />
 > **Dec 2022:** I am invited to be the reviewer of [ICML 2023](https://icml.cc/Conferences/2023). <br />
 > **Jul 2022:** I am invited to be the reviewer of [ICLR 2023](https://iclr.cc/Conferences/2023). <br />
 > **Jul 2022:** I am invited to attend [HPTS 2022](http://www.hpts.ws/papers/2022/agenda.html). <br />
