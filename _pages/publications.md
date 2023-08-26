@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-[List in PDF](https://xilinggrantli.github.io/files/List_of_Publications.pdf)
+[Full list in PDF](https://xilinggrantli.github.io/files/List_of_Publications.pdf)
 
 \* stands for coauthorship.
 
