@@ -17,10 +17,17 @@ author_profile: true
 
 ![alt text](https://xilinggrantli.github.io/images/icml2021_3pc.png)
 
+**Demonstration/Tutorial/Panels**
+
+[1] (Demo) **Xiling Li\***, Gefei Tan\*, Xiao Wang, Jennie Rogers, Soamar Homsi. *RESCU-SQL: Oblivious Querying for the Zero Trust Cloud*, In Proceedings of the VLDB Endowment (PVLDB), Volume 16, No. 12, 4086-4089, 2023. DOI:[https://doi.org/10.14778/3611540.3611627](https://doi.org/10.14778/3611540.3611627)
+([PDF](https://www.vldb.org/pvldb/vol16/p4086-li.pdf), [Website](https://www.vldb.org/pvldb/volumes/16/paper/RESCU-SQL%3A%20Oblivious%20Querying%20for%20the%20Zero%20Trust%20Cloud))
+
+![alt text](https://xilinggrantli.github.io/images/rescu-sql-dashboard.png)
+
 **Papers in Workshops:**
 
 [1] **Xiling Li**, Martine De Cock. *Cognitive load detection from wrist-band sensors.* In Adjunct Proceedings of the 2020 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2020 ACM International Symposium on Wearable Computers (UbiComp-ISWC '20). ACM, New York, NY, USA, 456–461. DOI: [https://doi.org/10.1145/3410530.3414428](https://doi.org/10.1145/3410530.3414428)
-([PDF](http://faculty.washington.edu/mdecock/papers/xli2020a.pdf), [Talk](https://www.youtube.com/watch?v=hRcrJ2Tdgbk))
+([PDF](http://faculty.washington.edu/mdecock/papers/xli2020a.pdf), [Talk](https://www.youtube.com/watch?v=hRcrJ2Tdgbk), [Website](https://www.ubittention.org/2020/))
 
 **Master Thesis:**
 
