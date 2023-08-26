@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+[List in PDF](https://xilinggrantli.github.io/files/List_of_Publications.pdf)
+
 **Papers in Proceedings:**
 
 [1] **Xiling Li**, Chenkai Weng, Yongxin Xu, Xiao Wang, Jennie Rogers. *ZKSQL: Verifiable and Efficient Query Evaluation with Zero-Knowledge Proofs*, In Proceedings of the VLDB Endowment (PVLDB), Volume 16, No. 8, 1804-1816, 2023. DOI:[https://doi.org/10.14778/3594512.3594513](https://doi.org/10.14778/3594512.3594513) 
