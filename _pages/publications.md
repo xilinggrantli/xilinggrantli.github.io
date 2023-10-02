@@ -12,19 +12,19 @@ author_profile: true
 **Papers in Proceedings:**
 
 [1] **Xiling Li**, Chenkai Weng, Yongxin Xu, Xiao Wang, Jennie Rogers. *ZKSQL: Verifiable and Efficient Query Evaluation with Zero-Knowledge Proofs*, In Proceedings of the VLDB Endowment (PVLDB), Volume 16, No. 8, 1804-1816, 2023. DOI:[https://doi.org/10.14778/3594512.3594513](https://doi.org/10.14778/3594512.3594513) 
-([PDF](https://www.vldb.org/pvldb/vol16/p1804-li.pdf), [Code](https://github.com/vaultdb/zksql), [Website](https://vldb.org/pvldb/volumes/16/paper/ZKSQL%3A%20Verifiable%20and%20Efficient%20Query%20Evaluation%20with%20Zero-Knowledge%20Proofs))
+([PDF](https://www.vldb.org/pvldb/vol16/p1804-li.pdf), [Code](https://github.com/vaultdb/zksql), [Website](https://vldb.org/pvldb/volumes/16/paper/ZKSQL%3A%20Verifiable%20and%20Efficient%20Query%20Evaluation%20with%20Zero-Knowledge%20Proofs), [Poster](https://xilinggrantli.github.io/images/ZKSQL_poster.jpg), [Talk](https://www.youtube.com/watch?v=PRf0R9s0DII))
 
 ![alt text](https://xilinggrantli.github.io/images/zksql_workflow.png)
 
 [2] **Xiling Li**, Rafael Dowsley, Martine De Cock. *Privacy-Preserving Feature Selection with Secure Multiparty Computation*, In Proceedings of the 38th International Conference on Machine Learning (ICML 2021), PMLR 139:6326-6336, 2021. 
-([PDF](http://proceedings.mlr.press/v139/li21e/li21e.pdf), [Website](http://proceedings.mlr.press/v139/li21e.html), [Poster](https://xilinggrantli.github.io/images/Xiling__ICML_2021_poster.png), [Talk](https://icml.cc/virtual/2021/spotlight/9778))
+([PDF](http://proceedings.mlr.press/v139/li21e/li21e.pdf), [Website](http://proceedings.mlr.press/v139/li21e.html), [Poster](https://xilinggrantli.github.io/images/Xiling__ICML_2021_poster.png), [Poster](https://xilinggrantli.github.io/images/RESCU-SQL_poster.jpg), [Talk](https://icml.cc/virtual/2021/spotlight/9778))
 
 ![alt text](https://xilinggrantli.github.io/images/icml2021_3pc.png)
 
 **Demonstration/Tutorial/Panels**
 
 [1] (Demo) **Xiling Li\***, Gefei Tan\*, Xiao Wang, Jennie Rogers, Soamar Homsi. *RESCU-SQL: Oblivious Querying for the Zero Trust Cloud*, In Proceedings of the VLDB Endowment (PVLDB), Volume 16, No. 12, 4086-4089, 2023. DOI:[https://doi.org/10.14778/3611540.3611627](https://doi.org/10.14778/3611540.3611627)
-([PDF](https://www.vldb.org/pvldb/vol16/p4086-li.pdf), [Website](https://www.vldb.org/pvldb/volumes/16/paper/RESCU-SQL%3A%20Oblivious%20Querying%20for%20the%20Zero%20Trust%20Cloud))
+([PDF](https://www.vldb.org/pvldb/vol16/p4086-li.pdf), [Website](https://www.vldb.org/pvldb/volumes/16/paper/RESCU-SQL%3A%20Oblivious%20Querying%20for%20the%20Zero%20Trust%20Cloud), [Talk](https://www.youtube.com/watch?v=Q7jFDTN4w7Q))
 
 ![alt text](https://xilinggrantli.github.io/images/rescu-sql-dashboard.png)
 
