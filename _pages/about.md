@@ -15,7 +15,7 @@ Broadly speaking, my research interests focus on privacy and security of compute
 I received my M.S. degree in Computer Science from [University of Washington](http://www.washington.edu) in 2020 advised by [Dr. Martine De Cock](http://faculty.washington.edu/mdecock/) and my B.S. degree in computer science from [University of California, San Diego](https://cse.ucsd.edu) in 2016. During gap years between UCSD and UW, I worked for Watson IoT at [IBM](https://www.ibm.com/) as a data scientist at Beijing, China.
 
 ## **News**
-
+>** Oct 2023:** I gave a guest lecture *Database Architecture and Query Evaluation* for [COMP_SCI 339](https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/339.html).
 >**Aug 2023:** I am invited to be the reviewer of [ICLR 2024](https://iclr.cc/Conferences/2024). <br />
 >**Jul 2023:** Our demo paper [RESCU-SQL](https://www.vldb.org/pvldb/vol16/p4086-li.pdf) has been publised to PVLDB Volume 16, No. 12. <br />
 > **Jun 2023:** Our paper "RESCU-SQL: Oblivious Querying for the Zero Trust Cloud" has been accepted at [VLDB 2023](https://vldb.org/2023/?papers-demo) as demonstration. <br />
