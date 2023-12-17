@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate (3rd-year) in computer science at [Northwestern University](https://www.mccormick.northwestern.edu/computer-science/people/phd-students/l-r.html) advised by [Dr. Jennie Rogers](http://users.eecs.northwestern.edu/~jennie/). *I am looking for a research position for Summer 2024* and would welcome any inquiries regarding my research. Please don't hesitate to get in touch if you're interested.
+I am a Ph.D. candidate (3rd-year) in computer science at [Northwestern University](https://www.mccormick.northwestern.edu/computer-science/people/phd-students/l-r.html) advised by [Dr. Jennie Rogers](http://users.eecs.northwestern.edu/~jennie/). *I am looking for a research position for Summer 2024*
 
 Broadly speaking, my research interests focus on privacy and security of computer science including verifiable query evaluation (DB) and privacy-preserving machine learning (PPML). Meanwhile, I have extensive experience working with [secure multi-party computation](https://en.wikipedia.org/wiki/Secure_multi-party_computation) and [zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof).
 
 I received my M.S. degree in Computer Science from [University of Washington](http://www.washington.edu) in 2020 advised by [Dr. Martine De Cock](http://faculty.washington.edu/mdecock/) and my B.S. degree in computer science from [University of California, San Diego](https://cse.ucsd.edu) in 2016. During gap years between UCSD and UW, I worked for Watson IoT at [IBM](https://www.ibm.com/) as a data scientist at Beijing, China.
+
+I would welcome any inquiries regarding my research. Please don't hesitate to get in touch if you're interested.
 
 ## **News**
 >**Dec 2023:** I am invited to be the reviewer of [ICML 2024](https://icml.cc/Conferences/2024/Dates). <br />
