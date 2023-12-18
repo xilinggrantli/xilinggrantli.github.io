@@ -14,7 +14,7 @@ Broadly speaking, my research interests focus on privacy and security of compute
 
 I received my M.S. degree in Computer Science from [University of Washington](http://www.washington.edu) in 2020 advised by [Dr. Martine De Cock](http://faculty.washington.edu/mdecock/) and my B.S. degree in computer science from [University of California, San Diego](https://cse.ucsd.edu) in 2016. During gap years between UCSD and UW, I worked for Watson IoT at [IBM](https://www.ibm.com/) as a data scientist at Beijing, China.
 
-I would welcome any inquiries regarding my research. Please don't hesitate to get in touch if you're interested.
+I would welcome any inquiries regarding my research. Please don't hesitate to [get in touch](mailto:xiling.li@northwestern.edu) if you're interested.
 
 ## **News**
 >**Dec 2023:** I am invited to be the reviewer of [ICML 2024](https://icml.cc/Conferences/2024/Dates). <br />
