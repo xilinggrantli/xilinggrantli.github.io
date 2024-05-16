@@ -10,12 +10,13 @@ author_profile: true
 ICML: [2021](https://icml.cc/Conferences/2021/Reviewers),
 [2022](https://icml.cc/Conferences/2022/Reviewers),
 [2023](https://icml.cc/Conferences/2023/Reviewers),
-[2024](https://icml.cc/Conferences/2024/Dates)
+[2024](https://icml.cc/Conferences/2024/Reviewers)
 
 NeurIPS: [2021](https://nips.cc/Conferences/2021/ProgramCommittee),
 [2022](https://neurips.cc/Conferences/2022/ProgramCommittee),
-[2023](https://nips.cc/Conferences/2023/ProgramCommittee)
+[2023](https://nips.cc/Conferences/2023/ProgramCommittee),
+[2024](https://nips.cc/Conferences/2024/Dates)
 
 ICLR: [2022](https://iclr.cc/Conferences/2022/Reviewers),
 [2023](https://iclr.cc/Conferences/2023/ProgramCommittee),
-[2024](https://iclr.cc/Conferences/2024)
+[2024](https://iclr.cc/Conferences/2024/Reviewers)
