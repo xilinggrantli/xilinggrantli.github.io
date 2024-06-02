@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate (3rd-year) in computer science at [Northwestern University](https://www.mccormick.northwestern.edu/computer-science/people/phd-students/l-r.html) advised by [Dr. Jennie Rogers](http://users.eecs.northwestern.edu/~jennie/). *I am looking for a research intern position for Summer 2024.*
+I am a Ph.D. candidate (3rd-year) in computer science at [Northwestern University](https://www.mccormick.northwestern.edu/computer-science/people/phd-students/l-r.html) advised by [Dr. Jennie Rogers](http://users.eecs.northwestern.edu/~jennie/). *I am looking for a research intern position for Summer 2025.*
 
 Broadly speaking, my research interests focus on security, privacy and trustworthiness of data management and applications including verifiable query evaluation (DB), privacy-preserving machine learning (PPML) and so on. Meanwhile, I have extensive experience working with [secure multi-party computation](https://en.wikipedia.org/wiki/Secure_multi-party_computation), [zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof) and [differential privacy](https://en.wikipedia.org/wiki/Differential_privacy).
 
