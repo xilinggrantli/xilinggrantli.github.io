@@ -18,7 +18,7 @@ I would welcome any inquiries regarding my research. Please don't hesitate to [g
 
 ## **News**
 >**May 2024:** I am invited to be the reviewer of [NeurIPS 2024](https://nips.cc/Conferences/2024/Dates). <br />
->**May 2024:** I attended GCASR 2024 for [poster secton](https://xilinggrantli.github.io/images/gcasr2024-poster.jpg). <br />
+>**May 2024:** I attended [GCASR 2024](https://gcasr.org/2024/) for [poster secton](https://xilinggrantli.github.io/images/gcasr2024-poster.jpg). <br />
 >**Apr 2024:** I gave a guest lecture "Relational Algebra" for [COMP_SCI 339](https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/339.html). <br />
 >**Mar 2024** I serve as teaching assistant for [COMP_SCI 339: Intro to Database Systems](https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/339.html) on Spring 2024. <br />
 >**Dec 2023:** I am invited to be the reviewer of [ICML 2024](https://icml.cc/Conferences/2024/Dates). <br />
