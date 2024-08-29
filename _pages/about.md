@@ -18,7 +18,7 @@ I would welcome any inquiries regarding my research. Please don't hesitate to [g
 
 ## **News**
 >**Aug 2024:** I am invited to be the reviewer of [ICLR 2025](https://iclr.cc/Conferences/2025). <br />
->**Jul 2024:** Our paper "Everything You Always Wanted to Know About Secure and Private Database Systems (but were Afraid to Ask)" has been published to the Bulletin of the IEEE Computer Society Technical Committee on Data Engineering, Volume 47, Issue 2. <br />
+>**Jul 2024:** Our paper [Everything You Always Wanted to Know About Secure and Private Database Systems (but were Afraid to Ask)](http://sites.computer.org/debull/A24june/A24JUN-CD.pdf#page=5) has been published to the Bulletin of the IEEE Computer Society Technical Committee on Data Engineering, Volume 47, Issue 2. <br />
 >**May 2024:** I am invited to be the reviewer of [NeurIPS 2024](https://nips.cc/Conferences/2024/Dates). <br />
 >**May 2024:** I attended [GCASR 2024](https://gcasr.org/2024/) for [poster secton](https://xilinggrantli.github.io/images/gcasr2024-poster.jpg). <br />
 >**Apr 2024:** I gave a guest lecture "Relational Algebra" for [COMP_SCI 339](https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/339.html). <br />
