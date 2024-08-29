@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate (3rd-year) in computer science at [Northwestern University](https://www.mccormick.northwestern.edu/computer-science/people/phd-students/l-r.html) advised by [Dr. Jennie Rogers](http://users.eecs.northwestern.edu/~jennie/). *I am looking for a research intern position for Summer 2025.*
+I am a Ph.D. candidate (4th-year) in computer science at [Northwestern University](https://www.mccormick.northwestern.edu/computer-science/people/phd-students/l-r.html) advised by [Dr. Jennie Rogers](http://users.eecs.northwestern.edu/~jennie/). *I am looking for a research intern position for Summer 2025.*
 
 Broadly speaking, my research interests focus on security, privacy and trustworthiness of data management and applications including verifiable query evaluation (DB), privacy-preserving machine learning (PPML) and so on. Meanwhile, I have extensive experience working with [secure multi-party computation](https://en.wikipedia.org/wiki/Secure_multi-party_computation), [zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof) and [differential privacy](https://en.wikipedia.org/wiki/Differential_privacy).
 
@@ -17,6 +17,8 @@ I received my M.S. degree in Computer Science from [University of Washington](ht
 I would welcome any inquiries regarding my research. Please don't hesitate to [get in touch](mailto:xiling.li@northwestern.edu) if you're interested.
 
 ## **News**
+>**Aug 2024:** I am invited to be the reviewer of [ICLR 2025](https://iclr.cc/Conferences/2025). <br />
+>**Jul 2024:** Our paper "Everything You Always Wanted to Know About Secure and Private Database Systems (but were Afraid to Ask)" has been published to the Bulletin of the IEEE Computer Society Technical Committee on Data Engineering, Volume 47, Issue 2. <br />
 >**May 2024:** I am invited to be the reviewer of [NeurIPS 2024](https://nips.cc/Conferences/2024/Dates). <br />
 >**May 2024:** I attended [GCASR 2024](https://gcasr.org/2024/) for [poster secton](https://xilinggrantli.github.io/images/gcasr2024-poster.jpg). <br />
 >**Apr 2024:** I gave a guest lecture "Relational Algebra" for [COMP_SCI 339](https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/339.html). <br />
