@@ -21,3 +21,5 @@ ICLR: [2022](https://iclr.cc/Conferences/2022/Reviewers),
 [2023](https://iclr.cc/Conferences/2023/ProgramCommittee),
 [2024](https://iclr.cc/Conferences/2024/Reviewers),
 [2025](https://iclr.cc/Conferences/2025)
+
+AISTATS: [2025](https://virtual.aistats.org/Conferences/2025/Dates)
