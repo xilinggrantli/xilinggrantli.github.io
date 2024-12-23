@@ -17,6 +17,7 @@ I received my M.S. degree in Computer Science from [University of Washington](ht
 I would welcome any inquiries regarding my research. Please don't hesitate to [get in touch](mailto:xiling.li@northwestern.edu) if you're interested.
 
 ## **News**
+>**Dec 2024:** I am invited to be the reviewer of [ICML 2025](https://icml.cc/Conferences/2025/Dates). <br />
 >**Oct 2024:** I am invited to be the reviewer of [AISTATS 2025](https://virtual.aistats.org/Conferences/2025/Dates). <br />
 >**Aug 2024:** I am invited to be the reviewer of [ICLR 2025](https://iclr.cc/Conferences/2025). <br />
 >**Jul 2024:** Our paper [Everything You Always Wanted to Know About Secure and Private Database Systems (but were Afraid to Ask)](http://sites.computer.org/debull/A24june/A24JUN-CD.pdf#page=5) has been published to the Bulletin of the IEEE Computer Society Technical Committee on Data Engineering, Volume 47, Issue 2. <br />
