@@ -17,6 +17,10 @@ I received my M.S. degree in Computer Science from [University of Washington](ht
 I would welcome any inquiries regarding my research. Please don't hesitate to [get in touch](mailto:xiling.li@northwestern.edu) if you're interested.
 
 ## **News**
+>**Jun 2025:** I passed my thesis proposal. <br />
+>**Jun 2025:** I am invited to be the reviewer of [Asiacrypt 2025](https://asiacrypt.iacr.org/2025/). <br />
+>**May 2025:** I gave a [talk](https://xilinggrantli.github.io/files/DBReadingGroup0521.pdf) for Northwestern Database Reading Group. <br />
+>**Feb 2025:** I am invited to be the reviewer of [NeurIPS 2025](https://nips.cc/Conferences/2025/Dates). <br />
 >**Jan 2025:** I gave a [talk](https://xilinggrantli.github.io/files/2025_WI_DB_Reading_Group.pdf) for Northwestern Database Reading Group. <br />
 >**Dec 2024:** I am invited to be the reviewer of [ICML 2025](https://icml.cc/Conferences/2025/Dates). <br />
 >**Oct 2024:** I am invited to be the reviewer of [AISTATS 2025](https://virtual.aistats.org/Conferences/2025/Dates). <br />
