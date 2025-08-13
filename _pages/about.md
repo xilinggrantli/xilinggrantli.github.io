@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate (4th-year) in computer science at [Northwestern University](https://www.mccormick.northwestern.edu/computer-science/people/phd-students/l-r.html) advised by [Dr. Jennie Rogers](http://users.eecs.northwestern.edu/~jennie/). *I am looking for a research intern position for Summer 2025.*
+I am a Ph.D. candidate (4th-year) in computer science at [Northwestern University](https://www.mccormick.northwestern.edu/computer-science/people/phd-students/l-r.html) advised by [Dr. Jennie Rogers](http://users.eecs.northwestern.edu/~jennie/). *I am looking for a research intern position for Fall 2025 and a post-doc position starting from 2027.*
 
 Broadly speaking, my research interests focus on security, privacy and trustworthiness of data management and applications including verifiable query evaluation (DB), privacy-preserving machine learning (PPML) and so on. Meanwhile, I have extensive experience working with [secure multi-party computation](https://en.wikipedia.org/wiki/Secure_multi-party_computation), [zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof) and [differential privacy](https://en.wikipedia.org/wiki/Differential_privacy).
 
@@ -17,6 +17,7 @@ I received my M.S. degree in Computer Science from [University of Washington](ht
 I would welcome any inquiries regarding my research. Please don't hesitate to [get in touch](mailto:xiling.li@northwestern.edu) if you're interested.
 
 ## **News**
+>**Aug 2025:** I am invited to be the reviewer of [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/). <br />
 >**Jun 2025:** I passed my thesis proposal. <br />
 >**Jun 2025:** I am invited to be the reviewer of [Asiacrypt 2025](https://asiacrypt.iacr.org/2025/). <br />
 >**May 2025:** I gave a [talk](https://xilinggrantli.github.io/files/DBReadingGroup0521.pdf) for Northwestern Database Reading Group. <br />
