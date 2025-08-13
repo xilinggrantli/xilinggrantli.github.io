@@ -27,3 +27,5 @@ ICLR: [2022](https://iclr.cc/Conferences/2022/Reviewers),
 AISTATS: [2025](https://virtual.aistats.org/Conferences/2025/Dates)
 
 Asiacrypt: [2025](https://asiacrypt.iacr.org/2025/)
+
+AAAI: [2026](https://aaai.org/conference/aaai/aaai-26/)
