@@ -22,7 +22,8 @@ NeurIPS: [2021](https://nips.cc/Conferences/2021/ProgramCommittee),
 ICLR: [2022](https://iclr.cc/Conferences/2022/Reviewers),
 [2023](https://iclr.cc/Conferences/2023/ProgramCommittee),
 [2024](https://iclr.cc/Conferences/2024/Reviewers),
-[2025](https://iclr.cc/Conferences/2025/ProgramCommittee#all-reviewer)
+[2025](https://iclr.cc/Conferences/2025/ProgramCommittee#all-reviewer),
+[2026](https://iclr.cc/Conferences/2026/Dates)
 
 AISTATS: [2025](https://virtual.aistats.org/Conferences/2025/Dates),
 [2026](https://virtual.aistats.org)
