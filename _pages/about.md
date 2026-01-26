@@ -18,7 +18,7 @@ I would welcome any inquiries regarding my research. Please don't hesitate to [g
 
 ## **News**
 >**Sep 2025:** I am invited to be the reviewer of [ICLR 2026](https://iclr.cc/Conferences/2026/Dates). <br />
->**Aug 2025:** I will join [Dolby](https://www.dolby.com) as a research intern for Fall 2025. <br />
+>**Aug 2025:** I will join [Dolby](https://www.dolby.com) as a research intern, working on multimodal lakehouse for heterogeneous AI workloads. <br />
 >**Aug 2025:** I am invited to be the reviewer of [AISTATS 2026](https://virtual.aistats.org). <br />
 >**Aug 2025:** I am invited to be the reviewer of [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/). <br />
 >**Jun 2025:** I passed my thesis proposal. <br />
