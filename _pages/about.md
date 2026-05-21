@@ -17,6 +17,8 @@ I received my M.S. degree in Computer Science from [University of Washington](ht
 I would welcome any inquiries regarding my research. Please don't hesitate to [get in touch](mailto:xiling.li@northwestern.edu) if you're interested.
 
 ## **News**
+>**May 2026:** I am awarded as [Spring 2026 outstanding teaching assistant](https://www.mccormick.northwestern.edu/computer-science/news-events/news/articles/2026/northwestern-cs-announces-spring-2026-outstanding-teaching-assistants-and-peer-mentors.html) by Northwestern CS department. <br />
+<!---
 >**Sep 2025:** I am invited to be the reviewer of [ICLR 2026](https://iclr.cc/Conferences/2026/Dates). <br />
 >**Aug 2025:** I will join [Dolby](https://www.dolby.com) as a research intern, working on multimodal lakehouse for heterogeneous AI workloads. <br />
 >**Aug 2025:** I am invited to be the reviewer of [AISTATS 2026](https://virtual.aistats.org). <br />
@@ -26,7 +28,6 @@ I would welcome any inquiries regarding my research. Please don't hesitate to [g
 >**May 2025:** I gave a [talk](https://xilinggrantli.github.io/files/DBReadingGroup0521.pdf) for Northwestern Database Reading Group. <br />
 >**Feb 2025:** I am invited to be the reviewer of [NeurIPS 2025](https://nips.cc/Conferences/2025/Dates). <br />
 >**Jan 2025:** I gave a [talk](https://xilinggrantli.github.io/files/2025_WI_DB_Reading_Group.pdf) for Northwestern Database Reading Group. <br />
-<!---
 >**Dec 2024:** I am invited to be the reviewer of [ICML 2025](https://icml.cc/Conferences/2025/Dates). <br />
 >**Oct 2024:** I am invited to be the reviewer of [AISTATS 2025](https://virtual.aistats.org/Conferences/2025/Dates). <br />
 >**Aug 2024:** I am invited to be the reviewer of [ICLR 2025](https://iclr.cc/Conferences/2025). <br />
