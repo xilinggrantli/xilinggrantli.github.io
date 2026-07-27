@@ -17,6 +17,8 @@ I received my M.S. degree in Computer Science from [University of Washington](ht
 I would welcome any inquiries regarding my research. Please don't hesitate to [get in touch](mailto:xiling.li@northwestern.edu) if you're interested.
 
 ## **News**
+>**Jul 2025:** I am invited to be the reviewer of [AAAI 2027](https://aaai.org/conference/aaai/aaai-27/). <br />
+>**Jun 2026:** I will join [Dolby](https://www.dolby.com) as a research intern, working on hybrid query optimization.<br />
 >**May 2026:** I am awarded as [Spring 2026 outstanding teaching assistant](https://www.mccormick.northwestern.edu/computer-science/news-events/news/articles/2026/northwestern-cs-announces-spring-2026-outstanding-teaching-assistants-and-peer-mentors.html) by Northwestern CS department. <br />
 <!---
 >**Sep 2025:** I am invited to be the reviewer of [ICLR 2026](https://iclr.cc/Conferences/2026/Dates). <br />
