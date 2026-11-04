@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in computer science at [Northwestern University](https://www.mccormick.northwestern.edu/computer-science/people/phd-students/l-r.html) advised by [Dr. Jennie Rogers](http://users.eecs.northwestern.edu/~jennie/). *I am looking for a post-doc position starting from 2027.*
+I am a Ph.D. in computer science from [Northwestern University](https://www.mccormick.northwestern.edu/computer-science/people/phd-students/l-r.html) advised by [Dr. Jennie Rogers](http://users.eecs.northwestern.edu/~jennie/). *I am looking for a post-doc position starting from 2027.*
 
 Broadly speaking, my research focuses on secure and private data management and analytics including verifiable query evaluation, outsourced querying, and private data federation. I have extensive experience with [secure multi-party computation](https://en.wikipedia.org/wiki/Secure_multi-party_computation) and [zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof), and I am also familiar with [differential privacy](https://en.wikipedia.org/wiki/Differential_privacy). I am interested in extending secure and privacy-preserving analytics to heterogeneous data, such as vectors and graphs.
 
@@ -17,7 +17,8 @@ I received my M.S. degree in Computer Science from [University of Washington](ht
 I would welcome any inquiries regarding my research. Please don't hesitate to [get in touch](mailto:xiling.li@northwestern.edu) if you're interested.
 
 ## **News**
->**Jul 2025:** I am invited to be the reviewer of [AAAI 2027](https://aaai.org/conference/aaai/aaai-27/). <br />
+>**Nov 2026:** I have successfully defended my dissertation, titled "Efficient, Scalable, and Trustworthy Query Evaluation for Secure Collaborative Analytics". <br />
+>**Jul 2026:** I am invited to be the reviewer of [AAAI 2027](https://aaai.org/conference/aaai/aaai-27/). <br />
 >**Jun 2026:** I will join [Dolby](https://www.dolby.com) as a research intern, working on hybrid query optimization.<br />
 >**May 2026:** I am awarded as [Spring 2026 outstanding teaching assistant](https://www.mccormick.northwestern.edu/computer-science/news-events/news/articles/2026/northwestern-cs-announces-spring-2026-outstanding-teaching-assistants-and-peer-mentors.html) by Northwestern CS department. <br />
 <!---
