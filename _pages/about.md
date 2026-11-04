@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. in computer science from [Northwestern University](https://www.mccormick.northwestern.edu/computer-science/people/phd-students/l-r.html) advised by [Dr. Jennie Rogers](http://users.eecs.northwestern.edu/~jennie/). *I am looking for a post-doc position starting from 2027.*
+I am a Ph.D. in computer science from [Northwestern University](https://www.mccormick.northwestern.edu/computer-science/people/phd-students/l-r.html) advised by [Dr. Jennie Rogers](http://users.eecs.northwestern.edu/~jennie/). *I am looking for a post-doc position or full-time research positions in the industrial labs starting from early 2027.*
 
 Broadly speaking, my research focuses on secure and private data management and analytics including verifiable query evaluation, outsourced querying, and private data federation. I have extensive experience with [secure multi-party computation](https://en.wikipedia.org/wiki/Secure_multi-party_computation) and [zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof), and I am also familiar with [differential privacy](https://en.wikipedia.org/wiki/Differential_privacy). I am interested in extending secure and privacy-preserving analytics to heterogeneous data, such as vectors and graphs.
 
