@@ -35,6 +35,8 @@ Donghyun Sohn, **Xiling Li**, Jennie Rogers. *Everything You Always Wanted to Kn
 (UbiComp 2020 UbiTtention Workshop) **Xiling Li**, Martine De Cock. *Cognitive load detection from wrist-band sensors*. In Adjunct Proceedings of the 2020 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2020 ACM International Symposium on Wearable Computers (UbiComp-ISWC '20). ACM, New York, NY, USA, 456–461. DOI: [https://doi.org/10.1145/3410530.3414428](https://doi.org/10.1145/3410530.3414428)
 ([PDF](http://faculty.washington.edu/mdecock/papers/xli2020a.pdf), [Talk](https://www.youtube.com/watch?v=hRcrJ2Tdgbk), [Website](https://www.ubittention.org/2020/))
 
-**Master Thesis:**
+**Thesis:**
 
-**Xiling Li.** *Privacy-Preserving Filter-based Feature Selection with Secure Multiparty Computation*. University of Washington, ISBN:9798569995585, 2020. ([PDF](https://digital.lib.washington.edu/researchworks/bitstream/handle/1773/46763/Li_washington_0250O_22365.pdf?sequence=1&isAllowed=y), [Website](https://www.proquest.com/docview/2491965298/abstract/6FAB3A2C9D7B49F5PQ/1?accountid=147023))
+(PhD) **Xiling Li.** *Efficient, Scalable, and Trustworthy Query Evaluation for Secure Collaborative Analytics*. Northwestern University, 2026.
+
+(Master) **Xiling Li.** *Privacy-Preserving Filter-based Feature Selection with Secure Multiparty Computation*. University of Washington, ISBN:9798569995585, 2020. ([PDF](https://digital.lib.washington.edu/researchworks/bitstream/handle/1773/46763/Li_washington_0250O_22365.pdf?sequence=1&isAllowed=y), [Website](https://www.proquest.com/docview/2491965298/abstract/6FAB3A2C9D7B49F5PQ/1?accountid=147023))
